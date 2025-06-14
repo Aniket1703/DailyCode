@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+package-lock.json
+package.json
+
+# Git automation tracking files
+.pushed-files.json
+push-log.txt
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore your automation script (if it's in the same folder)
+daily-git-push.js
